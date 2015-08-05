@@ -25,16 +25,15 @@
  * A better looking default horizontal rule
  */
 
- hr {
+ /*hr {
     display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0;
-}
+}*/
 
-/*'centered may not be used'*/
 .centered {
 	text-align: center
 }
@@ -53,13 +52,13 @@
 }
 
 /*ml and mr are currently unused, may be deleted*/
-.ml {
+/*.ml {
 	margin-left: 20px;
 }
 
 .mr {
 	margin-right: 20px;
-}
+}*/
 
 .navbar {
   border: 0px;
@@ -87,7 +86,7 @@
 
 body {
     font-family: 'Cutive Mono', monospace;
-    font-weight: 400;
+    /*font-weight: 400;*/
     font-size: 16px;
 
     -webkit-font-smoothing: antialiased;
@@ -100,13 +99,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #4a4a4a;
 }
 
-.fa {
-  color: #1abc9c;
-}
-
+/*duplicate*/
 hr {
   width: 100px;
-  color: #1abc9c;
+  /*color: #1abc9c;*/
   align: center;
 }
 
@@ -116,6 +112,7 @@ html {
   position: relative;
   min-height: 100%;
 }
+
 body {
   /* Margin bottom by footer height */
   margin-bottom: 240px;

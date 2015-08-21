@@ -10,6 +10,7 @@ title: Recipe // Fior di Latte
 Fior di Latte (flower of milk) is a milk flavoured ice cream we had whilst in Florence. It has a subtle, clean flavour and the recipe is similar to the base used when making more traditionally flavoured ice creams.
 
 ---
+Makes 1l.
 
 - 500ml whole milk
 - 250ml double cream

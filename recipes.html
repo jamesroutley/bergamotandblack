@@ -1,13 +1,13 @@
 ---
-layout: page
-title: Menus
+layout: post
+title: Recipes
 ---
 
 <div id="home">
-  <h1>Sample Menus</h1>
-  <ul class="posts">
+  <h1>Recipes</h1>
+  <ul class="recipes">
     {% for post in site.posts %}
-      {% if post.categories contains 'menu' %}
+      {% if post.categories contains 'recipe' %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}

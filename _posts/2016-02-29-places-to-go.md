@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: recipe
 title: Recipe // Places to go
 ---
 

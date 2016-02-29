@@ -1,7 +1,7 @@
 ---
 layout: post
 category: recipe
-title: Recipe // Places to go
+title: Places to go
 ---
 
 {{ page.title }}

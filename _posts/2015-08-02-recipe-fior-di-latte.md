@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: recipe
 title: Recipe // Fior di Latte
 ---
 
@@ -13,9 +13,15 @@ Fior di Latte (flower of milk) is a milk flavoured ice cream we had whilst in Fl
 Makes 1l.
 
 - 500ml whole milk
+
 - 250ml double cream
+
 - 150g caster sugar
+
 - pinch salt
+
+
+
 
 Bring 250ml of milk to a simmer. Dissolve sugar and salt in milk. Combine heated milk with other ingredients.
 

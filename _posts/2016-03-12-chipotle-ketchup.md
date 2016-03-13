@@ -6,13 +6,10 @@ title: Recipe // Chipotle ketchup
 
 {{ page.title }}
 ================
-
+Pitt Cue Co chipotle ketchup, also used to make BBQ sauce. We use chipotle paste rather than chipotle peppers because it's easier to find.
 
 ---
 
-Pitt Cue Co chipotle ketchup, also used to make BBQ sauce. We use chipotle paste rather than chipotle peppers because it's easier to find.
-
-//
 
 - 1kg ripe tomatoes, chopped
 

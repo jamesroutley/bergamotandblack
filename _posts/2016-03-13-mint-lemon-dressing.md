@@ -8,11 +8,9 @@ title: Recipe // Mint and lemon dressing
 ================
 
 
----
-
 Can be served with mint and lemon chicken in place of the mint salsa if there are no preserved lemons to hand.
 
-//
+---
 
 - 1 echalion shallot, finely diced
 

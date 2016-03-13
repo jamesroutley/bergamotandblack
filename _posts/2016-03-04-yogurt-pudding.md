@@ -1,18 +1,15 @@
 ---
 layout: post
 category: recipe
-title: Recipe // KFC sauce
+title: Recipe // Yoghurt pudding
 ---
 
 {{ page.title }}
 ================
 
-
----
-
 To serve 4 
 
-//
+---
 
 - 4 sheets (leaves) gelatin (0.2 oz / 7 g in total)
 
@@ -28,7 +25,6 @@ To serve 4
 
 - 20 g slivered Iranian (or crushed regular) pistachios
 
-//
 
 Place the gelatin sheets in a bowl with plenty of cold water and leave to soften for a few minutes.
 

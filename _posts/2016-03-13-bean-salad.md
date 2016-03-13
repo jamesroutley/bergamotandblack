@@ -8,9 +8,6 @@ title: Recipe // Green bean, broad bean salad
 ================
 
 
----
-
-
 - 200g french beans, topped 
 
 - 300g broad beans (fresh or frozen)

@@ -13,28 +13,46 @@ An adaptation of J. Kenji López-Alt's Bang Bang Ji Si. The chicken is smoked ov
 Serves 4 as a salad
 
 Chicken:
+
 - 2 chicken breasts
+
 - 4 tbsp rice
+
 - 4 tbsp black tea
+
 - 3 tbsp brown sugar
 
 Dressing:
+
 - 2 tsp Sichuan peppercorns
+
 - 2 garlic cloves
+
 - 2 tsp sugar
+
 - 2 tsp Chinese sesame paste
+
 - 2 tsp soy sauce
+
 - 1 tbsp Chinkiang vinegar
+
 - 2 tbsp Sichuanese chilli oil
 
 To serve:
+
 - spring onions
+
 - black and white sesame seeds
 
 Sichuanese chili oil:
+
 - 250ml sunflower oil
-- 50g ground Sichuanese chillies or gochugaru (Korean ground chilli)
+
+- 50g ground Sichuanese chillies or gochugaru (Korean ground 
+chilli)
+
 - 1 tsp sesame seeds
+
 - 1/2 inch piece of unpeeled ginger, crushed with the blade of a knife
 
 

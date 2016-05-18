@@ -11,7 +11,7 @@ title: Bergamot & Black 015
 
 ---
 
-fried anchovies, chipirones, pimentos de padrón
+fried anchovies, pimentos de padrón
 
 beers
 
@@ -25,11 +25,7 @@ bedford square air dried ham croquetas
 
 mussels, sherry vinaigrette
 
-arroz campero, rabbit
-
-skate, black olive, pine nut
-
-trotter fritters
+bream, black olive, pine nut
 
 beetroot, hazelnuts
 

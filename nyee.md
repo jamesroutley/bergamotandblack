@@ -29,4 +29,4 @@ Flat 136 Bedford Court Mansions
 
 Adeline Place, WC1B 3AH
 
-Dress: fancy
+Dress: smart

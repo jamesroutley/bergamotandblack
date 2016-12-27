@@ -5,20 +5,20 @@ title: Menus
 
 # B&B 016
 
-An NYEE Cocktail Party. We'll be making cocktails, but feel free to BYO booze as well.
+A New Year's Eve Eve Cocktail Party. We'll be making cocktails, but feel free to BYO booze as well.
 
 
 ---
 
-smoked rosemary and rum punch - £1
+Smoked rosemary and rum punch - £1
 
-grapefruit gin sour - £2.5
+Grapefruit gin sour - £2.5
 
-negroni - £3
+Negroni - £3
 
-sidecar - £4
+Sidecar - £4
 
-elderflower, vodka + champagne - £4
+Elderflower, champagne - £4
 
 
 ---

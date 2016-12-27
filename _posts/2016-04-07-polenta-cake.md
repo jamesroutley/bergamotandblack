@@ -37,6 +37,16 @@ For the syrup:
 
 - 4 tbsp honey
 
+To serve (optional):
+
+- 200g mascarpone 
+
+- teaspoon caster sugar
+
+- mint leaf tops
+
+
+
 //
 
 Line the base of the cake tin with a piece of baking parchment. Set the oven at 180C/Gas 4. 
@@ -59,4 +69,4 @@ Keep the liquid boiling until it has formed a thin syrup (4-5 minutes).
 
 Spike holes into the top of the cake (still warm and in its tin) with a skewer then spoon over the hot citrus syrup. Leave to almost cool, then lift out of the tin. 
 
-Serve in thick slices with thinly sliced fresh oranges and - if you want something more decadent - a little natural yogurt.
+To serve, whip mascarpone with a little sugar and serve the cake in thick slices with a dollop of mascarpone and mint leaf tops.
